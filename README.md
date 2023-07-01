@@ -1,2 +1,2 @@
 # My Portfolio
-This repository will be hosted on my github and will be a collection of some of the work that I have done as an example of my capabilities.
+This repository is hosted on my github pages [mainpage](ratsepmikk.github.io) and will include a collection of some of my previous work as an example of my capabilities.
